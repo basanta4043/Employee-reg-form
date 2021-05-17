@@ -1,7 +1,7 @@
 import '../index.css';
 function RegistrationForm(props) {
     return (
-        <div className="card col-12 col-lg-4 login-card mt-2 hv-center" >
+        <div class="container" >
             <div>
                 <h3>Please Fill all the required informations:</h3>
             </div>
