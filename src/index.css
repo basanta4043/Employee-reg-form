@@ -11,3 +11,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card col-12 col-lg-4 login-card mt-2 hv-center{
+align-items: center;
+}
